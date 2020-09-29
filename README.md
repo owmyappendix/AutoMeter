@@ -1,7 +1,7 @@
 # AutoMeter
 AutoMeter is a simple python program that allows the automation of throughput testing on a network of linux machines running the B.A.T.M.A.N interface
 # Note
-This program and the documentation was created with a secific use case in mind for a research project. Your use case may differ greatly. My setup was a fleet of ten raspberry pi Zeros running raspberry pi OS Buster and setup up as a mesh netowrk using the  B.A.T.M.A.N advanced interface.
+This program and the documentation was created with a secific use case in mind for a research project. Your use case may differ greatly. My setup was a fleet of ten raspberry pi Zeros running raspberry pi OS Buster and set up as a mesh netowrk using the  B.A.T.M.A.N advanced interface.
 
 # Configuring before transferring to pi:
 
