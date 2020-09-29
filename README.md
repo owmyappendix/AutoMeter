@@ -25,7 +25,7 @@ The program should work just fine as is but you might want to change some of the
 * just copy autometer.py to your bridge with scp, navigate to the folder it is in, and run:
   - python autometer.py
 * When done with tests, scp the .txt to host machine
-  - scp pi@base.local:/home/pi/Desktop/throughputmeter_results.txt .
+  - `scp pi@base.local:/home/pi/Desktop/throughputmeter_results.txt .`
     - Replace base with name of pi
     - If you want the txt file in a directory other than the one you are in, replace the period with a path
 * Open the .txt in a spreadsheet program or text editor
